@@ -1,0 +1,8 @@
+print('vedika' .isalnum())
+print("vedika77" .isalpha())
+print('777f' .isdigit())
+print('sdsdsd' .islower())
+True
+False
+False
+True
