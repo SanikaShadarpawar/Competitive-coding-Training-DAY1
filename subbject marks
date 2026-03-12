@@ -1,0 +1,12 @@
+print('subject marks :')
+
+phy = 50
+chem = 60
+
+print("physics ={} chem={}".format(phy, chem))
+print("physics ={0} chem={1}".format(phy, chem))
+
+total = phy + chem
+print("total marks", f"{total}")
+
+print("roll no=", "7")
