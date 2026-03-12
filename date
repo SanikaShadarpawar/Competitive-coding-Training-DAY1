@@ -1,0 +1,5 @@
+import datetime
+
+date=datetime.datetime.now()
+print(" it's now: {:%d/%m/%y/%h/%m/%s}".format(date))
+ #it's now: 11/03/26/Mar/03/1773220652
