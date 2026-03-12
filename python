@@ -1,0 +1,12 @@
+S = "Python is a High"
+
+print(S.lower())
+print(S.upper())
+print(S.swapcase())
+print(S.title())
+print(S.capitalize())
+#python is a high
+#PYTHON IS A HIGH
+#pYTHON IS A hIGH
+#Python Is A High
+#Python is a high
