@@ -1,0 +1,5 @@
+S = "help4code is a best platform for practicing programming"
+
+print(S.find("help4code"))
+print(S.find("python"))
+print(S.find("programming"))
