@@ -1,0 +1,7 @@
+no = int(input("enter any y number:"))
+if no>0:
+    print("no is positive")
+if no<0:
+    print("no is neg")
+if no==0:
+    printf("zero")    
