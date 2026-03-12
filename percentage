@@ -1,0 +1,6 @@
+percentage = float(input("Enter your percentage: "))
+
+if percentage >= 60:
+    print("She is eligible for placement")
+else:
+    print("She is not eligible for placement")
