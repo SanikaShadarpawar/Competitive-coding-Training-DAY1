@@ -4,3 +4,10 @@ p2 = int(input("enter a value of p2:"))
 p3 = int(input("enter a value of p3:"))
 p4 = int(input("enter a value of p4:"))
 p5 = int(input("enter a value of p5:"))
+
+if p1>p2 and p1>p3 and p1>p3 and p1>p4 and p1>p5:
+    print("p1 is greater")
+if p2>p1 and p2>p3 and p2>p3 and p2>p4 and p2>p5:
+    print("p2 is greater")
+if p3>p2 and p3>p1 and p3>p3 and p3>p4 and p3>p5:
+    print("p1 is greater")
