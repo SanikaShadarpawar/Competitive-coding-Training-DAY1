@@ -1,0 +1,13 @@
+#else if ladder
+#WAP to if percentage is greater than 90 so assign grade A if percentage grater than 80 so assign grade B and if percentage is grater than 60 so assign grade C and percentage below 60 then assign Fail
+per = int(input("Enter your percentage:"))
+
+if per>=90:
+    print("grade A")
+elif per>=80 and per<90:
+        print("grade B")
+        
+elif per>=60 and per<80:
+        print("grade c")
+else:
+         print("Fail")
